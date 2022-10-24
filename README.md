@@ -1,4 +1,4 @@
-### Olá! Me Chamo Maike Gomes Almeida.
+### Olá! Eu sou o Maike Gomes.
 
 Sou estudande de desenvolvimento web, com foco em Frontend, atualmente estou estudando React.
 
