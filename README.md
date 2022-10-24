@@ -2,7 +2,10 @@
 
 
 
+<h2>
 Tecnologias que eu uso no meu dia
+
+</h2
 
 <div>
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
