@@ -14,4 +14,4 @@
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div><br>
 
-###  Estudante em Análises e Desenvolvimento de Sistemas, com foco em me tornar um profissional Front-end. Apaixonado por tecnologia , resolução de problemas e  por mudar a vida das pessoas através da programação.
+###  Estudante em Ciências da Computação, com foco em me tornar um profissional Front-end. Apaixonado por tecnologia , resolução de problemas e  por mudar a vida das pessoas através da programação.
